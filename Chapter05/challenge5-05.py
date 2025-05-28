@@ -8,8 +8,6 @@ musician={"amazarashi":["季節は次々死んでいく","アンチノミー","�
                         "Baukloz","Barricades","Vogel im Kafig","The Reluctant Heroes"]
           }
 
-print(musician)
-
 i = input("amazarashi,平沢進,澤野弘之,のいずれかを入力してください:")
 
 if i in musician:
